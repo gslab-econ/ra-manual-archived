@@ -1,3 +1,5 @@
+_This is our readme template for raw directories._
+
 ### Overview
 Provide a brief overview of the purpose of the directory.
 
